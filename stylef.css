@@ -16,3 +16,24 @@ em strong {
 #missao {
     font-size: 20px;
 } 
+#banner {
+    width: 1005;
+}
+.beneficios {
+     background:#cccccc
+}
+.imagembeneficios {
+   width: 50%;
+}
+h2 {
+    text-align: center;
+}
+.itens {
+    font-style: italic;
+}
+ul {
+     display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin: 15%;
+}
